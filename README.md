@@ -22,8 +22,8 @@
 
 ## 📸 Visual Previews
 
-### 1. Spatial Desktop & 3D Workspace
-![VEGA OS Desktop Preview](./public/screenshots/desktop-preview.jpg)
+### 1. Spatial Desktop & Multi-Window Workspace
+![VEGA OS Desktop Preview](./public/screenshots/desktop-preview.png)
 
 ### 2. Multi-Window Management & System Apps
 ![VEGA OS Apps & Window Management Preview](./public/screenshots/apps-preview.png)
